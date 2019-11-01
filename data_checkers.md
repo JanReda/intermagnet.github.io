@@ -27,7 +27,7 @@ Data users can be confident definitive data from INTERMAGNET magnetic observator
 |Benoit Heumez                 |Institut de Physique du Globe de Paris    |BOU BRW BSL CMO DED FRD FRN GUA HON NEW SFS SHU SIT SJG TUC    |
 |David Calp                    |Natural Resources Canada                  |API ASP CSY CTA EYR GDH KDU LRM MAW MCQ SBL TDC THL            |
 |Ellen Clark                   |British Geological Survey                 |ABK BEL BLC CBB HLP HRN LYC NUR SOD                            |
-|Jake Morris & Bill Worthington|U.S. Geological Survey                    |CLF CZT DLT DRV KOU MBO PHU PPT TAN WNG                        |
+|Jake Morris and Bill Worthington|U.S. Geological Survey                    |CLF CZT DLT DRV KOU MBO PHU PPT TAN WNG                        |
 |Jan Reda                      |Institute of Geophysics Polish Ac. of Sc. |BDV BFO DOU DUR GCK HRB IZN KMH MEA NCK OTT RES SPT STJ THY VIC|
 |Kusumita Arora                |National Geophysical Research Institute   |ESK HAD TSU                                                    |
 |Sergey Y. Khomutov            |Observatory Paratunka                     |AAA AIA ARS ASC BOX HBK IRT KIV LON LVV PAG SPG UPS VOS        |
