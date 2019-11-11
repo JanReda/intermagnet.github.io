@@ -12,15 +12,6 @@ This multi-stage checking procedure does mean there can be delays of at least 18
 Data with a lower level of quality checking are available in a faster time-frame. Some IMOs provide "reported"  quality data in near-real time, all IMOs provide "reported" data within
 three days and many IMOs supply "adjusted" and "quasi-definitive" data. All these data are available from the INTERMAGNET website and [ftp site](ftp://ftp.seismo.nrcan.gc.ca/intermagnet)
 
- Annual definitive data from all INTERMAGNET magnetic observatories (IMOs) are carefully checked for quality and compliance in a three step peer-review process before they are accepted and published
- - Step 1: The IMOs prepare one calendar year of definitive data to meet INTERMAGNET standards and submit for review by their allocated member of the Data Checking Task Team.
- - Step 2: Data are checked by the Data Checking Task Team member and, once approved, submitted for a final "Step3" review.
- - Step 3: Data are reviewed by the chair of the INTERMAGNET Definitive Data subcommittee for final approval and publication.
-
-This multi-stage checking procedure does mean there can be delays of at least 18 months before definitive data sets are published, but it ensures definitive data are of the highest possible quality.
-Data with a lower level of quality checking are available in a faster time-frame. Some IMOs provide "reported" or "provisional" quality data in near-real time, all IMOs provide "reported" data within
-three days and many IMOs supply "provisional" and "quasi-definitive" data. All these data are available from the INTERMAGNET website and ftp site.
-
  ### Data Checking Task Team
 The detailed work of definitive data review and checking is done by a group of expert volunteers, each responsible for a group of IMOs.
 The review process includes reviewing the quality of data and baseline adoptions, and checking file formats and metadata for compliance with INTERMAGNET standards.
