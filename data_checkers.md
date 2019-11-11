@@ -19,7 +19,7 @@ three days and many IMOs supply "adjusted" and "quasi-definitive" data. All thes
 
 JRD:
 
-I tried put links to INTERMAGNET web and ftp, but couldn't. 
+I tried put links to INTERMAGNET web and ftp, but couldn't, ftp link is not working. 
 (http://www.intermagnet.org/data-donnee/download-eng.php, ftp://ftp.seismo.nrcan.gc.ca/intermagnet)
 
 
