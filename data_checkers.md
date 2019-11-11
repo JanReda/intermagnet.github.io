@@ -17,6 +17,11 @@ It seems to me that it is important to clarify 18 months. 18 months concerns a a
 Data with a lower level of quality checking are available in a faster time-frame. Some IMOs provide "reported"  quality data in near-real time, all IMOs provide "reported" data within
 three days and many IMOs supply "adjusted" and "quasi-definitive" data. All these data are available from the INTERMAGNET website and [ftp site](ftp://ftp.seismo.nrcan.gc.ca/intermagnet)
 
+JRD:
+
+I tried put links to INTERMAGNET web and ftp, but couldn't. 
+
+
  ### Data Checking Task Team
 The detailed work of definitive data review and checking is done by a group of expert volunteers, each responsible for a group of IMOs.
 The review process includes reviewing the quality of data and baseline adoptions, and checking file formats and metadata for compliance with INTERMAGNET standards.
