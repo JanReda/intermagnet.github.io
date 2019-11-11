@@ -9,6 +9,10 @@
  -  Data are reviewed by the chair of the INTERMAGNET Definitive Data subcommittee for final approval and publication.
 
 This multi-stage checking procedure does mean there can be delays of at least 18 months before definitive data sets are published, but it ensures definitive data are of the highest possible quality.
+
+Remark JRD: 
+It seems to me that it is important to clarify 18 months. 18 months concerns a annual set of entire INTERMAGNET network (CD /DVD/USB/IRDS) only. Definitive data set of individual IMO is published earlier, sometimes even before deadline announced in call for data.
+
 Data with a lower level of quality checking are available in a faster time-frame. Some IMOs provide "reported"  quality data in near-real time, all IMOs provide "reported" data within
 three days and many IMOs supply "adjusted" and "quasi-definitive" data. All these data are available from the INTERMAGNET website and [ftp site](ftp://ftp.seismo.nrcan.gc.ca/intermagnet)
 
@@ -38,4 +42,3 @@ The list of IMOs and responsible Data Checking Task Team members can change from
 
 INTERMAGNET gratefully acknowledges the work done by the members of the Data Checking Task Team and their institutes.
 
-test
