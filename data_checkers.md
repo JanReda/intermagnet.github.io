@@ -11,6 +11,7 @@
 This multi-stage checking procedure does mean there can be delays of at least 18 months before definitive data sets are published, but it ensures definitive data are of the highest possible quality.
 
 Remark JRD: 
+
 It seems to me that it is important to clarify 18 months. 18 months concerns a annual set of entire INTERMAGNET network (CD /DVD/USB/IRDS) only. Definitive data set of individual IMO is published earlier, sometimes even before deadline announced in call for data.
 
 Data with a lower level of quality checking are available in a faster time-frame. Some IMOs provide "reported"  quality data in near-real time, all IMOs provide "reported" data within
